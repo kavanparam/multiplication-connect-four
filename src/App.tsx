@@ -8,7 +8,7 @@ function App(){
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <h1 className='text-3xl text-center'>Welcome to Multiplication Connect Four</h1>
-        <p>This is another change</p>
+        <p>This was changed in the subbranch</p>
       </header>
     </div>
   );
